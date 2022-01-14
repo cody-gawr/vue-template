@@ -1,0 +1,200 @@
+{
+    "common": {
+        "close": "Close",
+        "ok": "Ok",
+        "save": "Save",
+        "cancel": "Cancel",
+        "yes": "Yes",
+        "no": "No",
+        "clear": "Clear",
+        "send": "Send"
+    },
+    "head": {
+        "logout": "Logout",
+        "editProfile": "Edit Profile",
+        "languages": "Languages",
+        "cart": "Cart",
+        "viewCart": "View Cart",
+        "totalPrice": "Total Price",
+        "checkout": "Checkout",
+        "cartDish": "Dish",
+        "cartamount": "amount",
+        "cartPrice": "Price",
+        "cartTotal": "Total",
+        "cartActions": "Actions",
+        "cartNoItem": "No dish in your order"
+    },
+    "router": {
+        "home": "Dashboard",
+        "info": "Informations",
+        "devices": "Devices",
+        "settings": "Settings",
+        "connect": "Connect",
+        "admin": "Admin",
+        "logs": "Logs"
+    },
+    "login": {
+        "username": "Username",
+        "password": "Password",
+        "login": "Login",
+        "clear": "Clear",
+        "loginform": "Login form",
+        "logOut": "Log Out",
+        "changePassword": "Change Password",
+        "nameReq": "Name is required",
+        "passReq": "Password is required",
+        "register": "Register",
+        "forgot": "Forgot"
+    },
+    "register": {
+        "username": "Username",
+        "email": "Email",
+        "password": "Password",
+        "repeatPassword": "Repeat password",
+        "register": "Register",
+        "clear": "Clear",
+        "registerForm": "Create Account",
+        "nameReq": "Name is required",
+        "passReq": "Password is required"
+    },
+    "forgot": {
+        "resetForm": "Reset Password",
+        "username": "Username",
+        "nameReq": "Name is required"
+    },
+    "editProfile": {
+        "title": "Edit your profile",
+        "profile": "YOUR PROFILE",
+        "name": "YOUR NAME",
+        "lastname": "YOUR SURNAME",
+        "email": "YOUR E-MAIL",
+        "website": "YOUR WEBSITE ADDRESS",
+        "country": "YOUR COUNTRY",
+        "birthday": "YOUR AGE"
+    },
+    "menu": {
+        "price": "Price",
+        "home": "Home",
+        "about": "About",
+        "privacy": "Privacy",
+        "account": "Account",
+        "cart": "Cart",
+        "settings": "Settings",
+        "help": "Help",
+        "languages": "Languages",
+        "menu": "Menu",
+        "restaurant": "Restaurant"
+    },
+    "restaurantDetail": {
+        "call": "Call now",
+        "send": "Send email",
+        "place": "Place",
+        "contacts": "Contacts",
+        "details": "Details",
+        "price": "Price",
+        "cuisines": "Cuisines",
+        "diets": "Diets",
+        "menu": "Menu",
+        "website": "Website",
+        "meals": "Meals"
+    },
+    "dishDetail": {
+        "tryWithFriend": "Try with friend",
+        "readRecipe": "Read recipe",
+        "addToOrder": "Add to order",
+        "ingredients": "Ingredients"
+    },
+    "checkout": {
+        "title": "Checkout",
+        "dishList": "Order summary",
+        "payments": "Payments"
+    },
+    "ingredientDetail": {
+        "relatedRecipes": "Related recipes",
+        "nutfact": {
+            "energy": "Calories",
+            "title": "Nutritional Facts",
+            "carbs": "Carbohydrate",
+            "sugar": "Sugars",
+            "fat": "Fats",
+            "satfat": "Saturated fats",
+            "transfat": "Insaturated fats",
+            "protein": "Proteins",
+            "sodium": "Sodium",
+            "fiber": "Fiber"
+        }
+    },
+    "help": {
+        "title": "Get help with Addubby",
+        "subtitle": "Ask",
+        "email": "Email",
+        "company": "Company",
+        "subject": "Subject",
+        "message": "Message",
+        "send": "Send",
+        "emailReq": "Email is required",
+        "subjReq": "Subject is required",
+        "messReq": "Message is required"
+    },
+    "allergens": {
+        "celery": "Celery",
+        "almond": "Almond",
+        "crustaceans": "Crustaceans",
+        "gluten": "Gluten",
+        "egg": "Egg",
+        "fish": "Fish",
+        "lupin": "Lupin",
+        "milk": "Milk",
+        "mollusc": "Mollusc",
+        "mustard": "Mustard",
+        "peanuts": "Peanuts",
+        "sesame": "Sesame",
+        "soybean": "Soybean",
+        "sulfide": "Sulfide"
+    },
+    "payment" : {
+        "title" : "Select cards",
+        "managebutton" : "Manage cards",
+        "payment" : "Payment now",
+        "price": "Price",
+        "pay" : "Pay",
+        "card_number" : "Credit Card Number",
+        "card_expiry" : "Expiration"
+    },
+    "add_payment" : {
+        "title" : "Manage cards",
+        "button" : "ADD CREDIT CARD"
+    },
+    "add_card" : {
+        "title" : "Add card",
+        "save" : "Save",
+        "back" : "Back",
+        "cancel" : "CANCEL"
+    },
+    "result_payment" : {
+        "title" : "Payment Result",
+        "continue" : "Continue to order",
+        "close" : "Close order"
+    },
+    "close_order" : {
+        "title" : "Close order",
+        "close" : "Close to order",
+        "email" : "Send via email",
+        "print" : "Print"
+    },
+    "payment_cash" : {
+        "title" : "PAY CASH",
+        "button" : "PAY WITH RESTAURANT",
+        "next" : "NEXT"
+    },
+    "payment_cash" : {
+        "title" : "PAY CASH",
+        "button" : "PAY WITH RESTAURANT",
+        "next" : "NEXT"
+    },
+    "payment_cash_result" : {
+        "title" : "PAY CASH",
+        "continue" : "CONTINUE TO ORDER",
+        "close" : "CLOSE TO ORDER"
+    }
+}

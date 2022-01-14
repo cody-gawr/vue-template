@@ -1,0 +1,195 @@
+{
+    "common": {
+        "close": "閉じる",
+        "ok": "OK",
+        "save": "セーブ",
+        "cancel": "キャンセル",
+        "yes": "はい",
+        "no": "番号",
+        "clear": "クリア",
+        "send": "送る"
+    },
+    "head": {
+        "logout": "ログアウト",
+        "editProfile": "プロファイル編集",
+        "languages": "言語",
+        "cart": "カート",
+        "viewCart": "かごの中身を見る",
+        "totalPrice": "合計金額",
+        "checkout": "チェックアウト",
+        "cartDish": "皿",
+        "cartamount": "量",
+        "cartPrice": "価格",
+        "cartTotal": "合計",
+        "cartActions": "行動",
+        "cartNoItem": "ご注文に皿はありません"
+    },
+    "router": {
+        "home": "ダッシュボード",
+        "info": "情報",
+        "devices": "装置",
+        "settings": "設定",
+        "connect": "つなぐ",
+        "admin": "管理者",
+        "logs": "ログ"
+    },
+    "login": {
+        "username": "ユーザー名",
+        "password": "パスワード",
+        "login": "ログインする",
+        "clear": "クリア",
+        "loginform": "ログインフォーム",
+        "logOut": "ログアウト",
+        "changePassword": "パスワードを変更する",
+        "nameReq": "名前が必要です",
+        "passReq": "パスワードが必要です",
+        "register": "登録",
+        "forgot": "忘れた"
+    },
+    "register": {
+        "username": "ユーザー名",
+        "email": "Eメール",
+        "password": "パスワード",
+        "repeatPassword": "パスワードを再度入力してください",
+        "register": "登録",
+        "clear": "クリア",
+        "registerForm": "アカウントを作成する",
+        "nameReq": "名前が必要です",
+        "passReq": "パスワードが必要です"
+    },
+    "forgot": {
+        "resetForm": "パスワードを再設定する",
+        "username": "ユーザー名",
+        "nameReq": "名前が必要です"
+    },
+    "editProfile": {
+        "title": "プロフィールを編集する",
+        "profile": "あなたのプロフィール",
+        "name": "あなたの名前",
+        "lastname": "あなたの苗字",
+        "email": "あなたの電子メール",
+        "website": "あなたのウェブサイトのアドレス",
+        "country": "あなたの国",
+        "birthday": "あなたの年齢"
+    },
+    "menu": {
+        "price": "価格",
+        "home": "ホーム",
+        "about": "約",
+        "privacy": "プライバシー",
+        "account": "アカウント",
+        "cart": "カート",
+        "settings": "設定",
+        "help": "助けて",
+        "languages": "言語",
+        "menu": "メニュー",
+        "restaurant": "飲食店"
+    },
+    "restaurantDetail": {
+        "call": "今すぐ電話",
+        "send": "メールを送る",
+        "place": "場所",
+        "contacts": "連絡先",
+        "details": "詳細",
+        "price": "価格",
+        "cuisines": "料理",
+        "diets": "ダイエット",
+        "menu": "メニュー",
+        "website": "ウェブサイト",
+        "meals": "食事"
+    },
+    "dishDetail": {
+        "tryWithFriend": "友達と一緒に試してください",
+        "readRecipe": "レシピを読む",
+        "addToOrder": "注文に追加",
+        "ingredients": "材料"
+    },
+    "checkout": {
+        "title": "チェックアウト",
+        "dishList": "注文の概要",
+        "payments": "お支払い"
+    },
+    "ingredientDetail": {
+        "relatedRecipes": "関連レシピ",
+        "nutfact": {
+            "energy": "カロリー",
+            "title": "栄養成分",
+            "carbs": "炭水化物",
+            "sugar": "砂糖",
+            "fat": "脂肪",
+            "satfat": "飽和脂肪",
+            "transfat": "不飽和脂肪",
+            "protein": "たんぱく質",
+            "sodium": "ナトリウム",
+            "fiber": "ファイバ"
+        }
+    },
+    "help": {
+        "title": "Addubbyでヘルプを取得する",
+        "subtitle": "頼む",
+        "email": "Eメール",
+        "company": "会社",
+        "subject": "件名",
+        "message": "メッセージ",
+        "send": "送る",
+        "emailReq": "メールが必要です",
+        "subjReq": "件名が必要です",
+        "messReq": "メッセージが必要です"
+    },
+    "allergens": {
+        "celery": "セロリ",
+        "almond": "アーモンド",
+        "crustaceans": "甲殻類",
+        "gluten": "グルテン",
+        "egg": "卵",
+        "fish": "魚",
+        "lupin": "ルパン",
+        "milk": "牛乳",
+        "mollusc": "軟体動物",
+        "mustard": "マスタード",
+        "peanuts": "ピーナッツ",
+        "sesame": "ごま",
+        "soybean": "大豆",
+        "sulfide": "硫化物"
+    },
+    "payment" : {
+        "title" : "カードを選択",
+        "managebutton" : "カードを管理する",
+        "payment" : "今すぐお支払い",
+        "price": "価格",
+        "pay" : "支払う",
+        "card_number" : "クレジットカード番号",
+        "card_expiry" : "満了"
+    },
+    "add_payment": {
+        "title" : "カードを管理する",
+        "button" : "クレジットカードを追加"
+    },
+    "add_card" : {
+        "title" : "カードを追加",
+        "save" : "セーブ",
+        "back" : "バック",
+        "cancel" : "キャンセル"
+    },
+    "result_payment" : {
+        "title" : "支払結果",
+        "continue" : "注文を続ける",
+        "close" : "注文に近い"
+    },
+    "close_order" : {
+        "title" : "注文に近い",
+        "close" : "注文に近い",
+        "email" : "メールで送信",
+        "print" : "印刷する"
+    },
+    "payment_cash" : {
+        "title" : "現金を支払う",
+        "button" : "レストランで支払う",
+        "next" : "次"
+    },
+    "payment_cash_result" : {
+        "title" : "現金を支払う",
+        "continue" : "注文を続ける",
+        "close" : "注文に近い"
+    }
+}

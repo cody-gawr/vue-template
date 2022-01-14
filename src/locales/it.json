@@ -1,0 +1,195 @@
+{
+    "common": {
+        "close": "Vicino",
+        "ok": "Ok",
+        "save": "Salva",
+        "cancel": "Annulla",
+        "yes": "sì",
+        "no": "No",
+        "clear": "Chiaro",
+        "send": "Spedire"
+    },
+    "head": {
+        "logout": "Disconnettersi",
+        "editProfile": "Modifica Profilo",
+        "languages": "Le lingue",
+        "cart": "Carrello",
+        "viewCart": "Vedi il carrello",
+        "totalPrice": "Prezzo totale",
+        "checkout": "Check-out",
+        "cartDish": "Piatto",
+        "cartamount": "quantità",
+        "cartPrice": "Prezzo",
+        "cartTotal": "Totale",
+        "cartActions": "Azioni",
+        "cartNoItem": "Nessun piatto nel tuo ordine"
+    },
+    "router": {
+        "home": "Cruscotto",
+        "info": "informazioni",
+        "devices": "dispositivi",
+        "settings": "impostazioni",
+        "connect": "Collegare",
+        "admin": "Admin",
+        "logs": "logs"
+    },
+    "login": {
+        "username": "Nome utente",
+        "password": "Parola d'ordine",
+        "login": "Accesso",
+        "clear": "Chiaro",
+        "loginform": "Modulo di accesso",
+        "logOut": "Disconnettersi",
+        "changePassword": "Cambia la password",
+        "nameReq": "Nome richiesto",
+        "passReq": "E 'richiesta la password",
+        "register": "Registrati",
+        "forgot": "dimenticato"
+    },
+    "register": {
+        "username": "Nome utente",
+        "email": "E-mail",
+        "password": "Parola d'ordine",
+        "repeatPassword": "ripeti la password",
+        "register": "Registrati",
+        "clear": "Chiaro",
+        "registerForm": "Creare un profilo",
+        "nameReq": "Nome richiesto",
+        "passReq": "E 'richiesta la password"
+    },
+    "forgot": {
+        "resetForm": "Resetta la password",
+        "username": "Nome utente",
+        "nameReq": "Nome richiesto"
+    },
+    "editProfile": {
+        "title": "modifica il tuo profilo",
+        "profile": "IL TUO PROFILO",
+        "name": "IL TUO NOME",
+        "lastname": "IL TUO COGNOME",
+        "email": "LA TUA EMAIL",
+        "website": "IL TUO INDIRIZZO DEL SITO",
+        "country": "IL TUO PAESE",
+        "birthday": "DELLA TUA ETÀ"
+    },
+    "menu": {
+        "price": "Prezzo",
+        "home": "Casa",
+        "about": "Di",
+        "privacy": "vita privata",
+        "account": "account",
+        "cart": "Carrello",
+        "settings": "impostazioni",
+        "help": "Aiuto",
+        "languages": "Le lingue",
+        "menu": "Menu",
+        "restaurant": "Ristorante"
+    },
+    "restaurantDetail": {
+        "call": "Chiamare ora",
+        "send": "Invia una email",
+        "place": "Posto",
+        "contacts": "Contatti",
+        "details": "Dettagli",
+        "price": "Prezzo",
+        "cuisines": "Cucina",
+        "diets": "diete",
+        "menu": "Menu",
+        "website": "Sito web",
+        "meals": "Pasti"
+    },
+    "dishDetail": {
+        "tryWithFriend": "Prova con un amico",
+        "readRecipe": "Leggi la ricetta",
+        "addToOrder": "Aggiungi all'ordine",
+        "ingredients": "ingredienti"
+    },
+    "checkout": {
+        "title": "Check-out",
+        "dishList": "Riepilogo ordine",
+        "payments": "pagamenti"
+    },
+    "ingredientDetail": {
+        "relatedRecipes": "Ricette correlate",
+        "nutfact": {
+            "energy": "calorie",
+            "title": "Valori Nutrizionali",
+            "carbs": "Carboidrato",
+            "sugar": "zuccheri",
+            "fat": "grassi",
+            "satfat": "Grassi saturi",
+            "transfat": "Grassi insaturi",
+            "protein": "proteine",
+            "sodium": "Sodio",
+            "fiber": "Fibra"
+        }
+    },
+    "help": {
+        "title": "Chiedi aiuto con Addubby",
+        "subtitle": "Chiedi",
+        "email": "E-mail",
+        "company": "Azienda",
+        "subject": "Soggetto",
+        "message": "Messaggio",
+        "send": "Spedire",
+        "emailReq": "Email obbligatoria",
+        "subjReq": "Soggetto è richiesto",
+        "messReq": "Messaggio richiesto"
+    },
+    "allergens": {
+        "celery": "Sedano",
+        "almond": "Mandorla",
+        "crustaceans": "crostacei",
+        "gluten": "Glutine",
+        "egg": "Uovo",
+        "fish": "Pesce",
+        "lupin": "Lupino",
+        "milk": "latte",
+        "mollusc": "Molluschi",
+        "mustard": "Mostarda",
+        "peanuts": "Arachidi",
+        "sesame": "Sesamo",
+        "soybean": "soia",
+        "sulfide": "Solfuro"
+    },
+    "payment" : {
+        "title" : "Seleziona carte",
+        "managebutton" : "Gestisci carta",
+        "payment" : "Pagamento adesso",
+        "price": "Prezzo",
+        "pay" : "Pagare",
+        "card_number" : "Numero di carta di credito",
+        "card_expiry" : "Scadenza"
+    },
+    "add_payment" : {
+        "title" : "Gestisci carta",
+        "button" : "Aggiungi carta di credito"
+    },
+    "add_card" : {
+        "title" : "Aggiungi carta",
+        "save" : "Salva",
+        "back" : "indietro",
+        "cancel" : "Annulla"
+    },
+    "result_payment" : {
+        "title" : "Risultato di pagamento",
+        "continue" : "Continua a ordinare",
+        "close" : "Chiudi ordine"
+    },
+    "close_order" : {
+        "title" : "Chiudi ordine",
+        "close" : "Vicino all'ordine",
+        "email" : "Invia via email",
+        "print" : "Stampa"
+    },
+    "payment_cash" : {
+        "title" : "Pagare in contanti",
+        "button" : "Paga con il ristorante",
+        "next" : "Il prossimo"
+    },
+    "payment_cash_result" : {
+        "title" : "Pagare in contanti",
+        "continue" : "Continua a ordinare",
+        "close" : "Chiudi ordine"
+    }
+}

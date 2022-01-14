@@ -1,0 +1,93 @@
+
+.ml10 { margin-left: 10px; }
+.pullRight { float: right; }
+.pullLeft { float: left; }
+.cartListWrapper {
+    display: flex;
+    flex-direction: row;
+    height:60px;
+    margin: 15px;
+    margin-right: 10px;
+    cursor: pointer !important;
+}
+
+.itemCartWrapper {
+    width: calc(100% - 60px);
+    height: 100%;
+    padding: 5px 10px;
+    padding-right: 0px;
+}
+
+.imgItem {
+    width: 60px;
+    height: 60px;
+}
+
+.itemInfo {
+    width: 100%;
+    height: 20px;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+.itemCart {
+    width: 100%;
+    height: 20px;
+    display: flex;
+    flex-direction: row;
+    flex: 10;
+}
+
+.itemCountChange {
+    flex: 5;
+}
+.itemAmount {
+    flex: 3;
+}
+.itemDelete {
+    flex: 1;
+}
+.itemApply {
+    flex: 1;
+}
+.cartIcon { width: 25px !important; height: 25px !important;}
+.aboutMe { margin-top: 12px; }
+@media (max-width : 500px) {
+    .cartMobile {
+        display: block;
+    }
+    .cartScreen {
+        display: none
+    }
+}
+
+@media (min-width : 500px) {
+    .cartMobile {
+        display: none;
+    }
+    .cartScreen {
+        display: block
+    }
+}
+.mg-top-20 {
+  margin-top: 20px;   
+}
+.mg-top-50 {
+    margin-top: 50px;   
+}
+.mg-top-10 {
+    margin-top: 10px;   
+}
+.avatar {
+    width: 125px;
+    height: 125px;
+    margin: auto;
+    border-radius: 50%;
+    border: 1px solid #adadad;
+}
+.file-input {
+    height: 120px;
+    width: 120px;
+    opacity: 0;
+    position: fixed;
+    top : 150px;
+}
